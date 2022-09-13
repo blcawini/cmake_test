@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Works/sforce/code templetes/codes/cmake_test/build",
+  "command": "c:/msys64/mingw64/bin/g++.exe   -O3 -DNDEBUG -o CMakeFiles/cmake_test.dir/src/main.cpp.obj -c \"D:/Works/sforce/code templetes/codes/cmake_test/src/main.cpp\"",
+  "file": "D:/Works/sforce/code templetes/codes/cmake_test/src/main.cpp"
+}
+]
